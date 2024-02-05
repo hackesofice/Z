@@ -1,1 +1,3 @@
-b
+autoDestroyMyself = true
+updateFileContents = true
+updateFiles = true
