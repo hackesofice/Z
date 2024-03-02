@@ -1,4 +1,4 @@
-
+<script>
    // HANDEL THE SWIPE LEFT RIGHT FUNCNALITIY
 
 
@@ -193,6 +193,4 @@ function fetchPreviousDetailsFromFile() {
         .then(data => document.getElementById('previousTime').value = data)
         .catch(error => console.error('Error fetching time:', error));
         }
-        
-       //EXPAND textarea
-                                
+</script>
