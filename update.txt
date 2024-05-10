@@ -1,3 +1,3 @@
 autoDestroyMyself = false
-updateFiles = true
-updateFileContents = true
+updateFiles = false
+updateFileContents = false
