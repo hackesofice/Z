@@ -1,6 +1,6 @@
 {
-  "tool-status": true,
+  "tool-status": false,
   "tracking": true,
   "logs-check": true,
-  "version": "1.0.1"
+  "version": "1.0.0"
 }
