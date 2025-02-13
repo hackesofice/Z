@@ -3,5 +3,5 @@
   "tracking": true,
   "logs-check": true,
   "version": "1.0.0",
-  "force-update": "true"
+  "force-update": true
 }
