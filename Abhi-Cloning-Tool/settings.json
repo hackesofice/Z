@@ -3,5 +3,5 @@
   "tracking": true,
   "logs-check": true,
   "version": "2.0.0",
-  "code": "print('doing wrong')"
+  "code": ""
 }
