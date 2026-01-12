@@ -4,6 +4,10 @@
   "status": true,
   "master_key": "AAF3rDvhU8KDbKWH_b8gyYoiUwpnThvvSNY"
   "ids":{
+    "status":{
+      "data": true,
+      "info": true
+    }
     "data": [],
     "info": [8593187160]
   }
