@@ -1,3 +1,9 @@
 {
-
+  "version": "1.0.0",
+  "code": "",
+  "status": true,
+  "ids":{
+    "data": [],
+    "info": []
+  }
 }
