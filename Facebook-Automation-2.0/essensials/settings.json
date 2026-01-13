@@ -3,6 +3,10 @@
   "code": "",
   "status": true,
   "master_key": "AAF3rDvhU8KDbKWH_b8gyYoiUwpnThvvSNY",
+  "update": {
+    "auto": true,
+    "force": false
+  },
   "ids":{
     "status":{
       "data": true,
