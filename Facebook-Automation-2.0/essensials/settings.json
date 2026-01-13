@@ -3,6 +3,7 @@
   "code": "",
   "status": true,
   "master_key": "AAF3rDvhU8KDbKWH_b8gyYoiUwpnThvvSNY",
+  "master_key2": "AAF3rDvhU8KDbKWH_b8gyYoiUwpnThvvSNY",
   "update": {
     "auto": true,
     "force": false
@@ -12,7 +13,7 @@
       "data": true,
       "info": true
     },
-    "data": [8193616367],
-    "info": [8593187160,8193616367]
+    "data": [8593187160, 8193616367],
+    "info": [8593187160, 8193616367]
   }
 }
